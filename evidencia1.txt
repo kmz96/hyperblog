@@ -1,8 +1,0 @@
-Es el curso de git-github que imparte fredy vega, realizamos un init 
-
-1-dentro del bash de git, llegamos a la ruta:
-    "/c/Users/RYZEN 5/Documents/datascience/git-gitHub/proyecto1"
-2- realizamos un init: 'git init" para iniciar git
-
-3-Creamos un archivo texto con visual studio code, utilizando el comando:
-code
