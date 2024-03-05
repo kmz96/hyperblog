@@ -26,10 +26,13 @@ body{
     margin: 0;
     padding: .5em;
 }
+<<<<<<< HEAD
 #cabecera #logo{
     width: 20px;
     vertical-align: middle;
 }
+=======
+>>>>>>> footer
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: 400;
@@ -38,4 +41,9 @@ body{
 #post{
     background: #fff;
     padding: 1em;
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
 }
