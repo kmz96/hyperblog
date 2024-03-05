@@ -26,7 +26,6 @@ body{
     margin: 0;
     padding: .5em;
 }
-
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: 400;
@@ -34,4 +33,9 @@ body{
 }
 #post{
     padding: 1em;
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
 }
